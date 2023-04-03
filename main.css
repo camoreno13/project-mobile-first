@@ -100,7 +100,7 @@ header img {
   width: 13px;
   height: 8px;
   margin-left: 10px;
-  background-image: url("/assets/icons/down-arrow.svg");
+  background-image: url("./assets/icons/down-arrow.svg");
 }
 
 /* Main container */
@@ -269,7 +269,7 @@ main {
 
 .product-detail--patata{
     position: absolute;
-    background-image: url('/assets/icons/batata.svg');
+    background-image: url('./assets/icons/batata.svg');
     width: 40px;
     height: 25px;
     top: -10px;
@@ -319,7 +319,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('/assets/icons/clock.svg');
+    background-image: url('./assets/icons/clock.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -330,7 +330,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('/assets/icons/eye.svg');
+    background-image: url('./assets/icons/eye.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -341,7 +341,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('/assets/icons/check-circle.svg');
+    background-image: url('./assets/icons/check-circle.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -352,7 +352,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('/assets/icons/dollar-sign.svg');
+    background-image: url('./assets/icons/dollar-sign.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -379,7 +379,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url('/assets/img/bitcoinbaby2x.jpg');
+    background-image: url('./assets/img/bitcoinbaby2x.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
